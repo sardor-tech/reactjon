@@ -1,0 +1,31 @@
+.for-video{
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+
+
+}
+
+
+.rasm{
+
+    transform: rotate(-23deg);
+    height: 200px;
+    width: 200px;
+}
+@media screen and (min-device-width: 283px) and (max-device-width: 1067px) {
+  body{
+      background-color: black;
+  }
+
+}
+@media screen and (min-device-width: 283px) and (max-device-width: 1067px) {
+    .container{
+        visibility: hidden;
+    }
+
+}
